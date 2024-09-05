@@ -42,7 +42,7 @@ img {
   max-width: 200px;
   height: auto;
   display: block;
-  margin: auto;
+  margin: 0auto;
 }
 
 hr {
